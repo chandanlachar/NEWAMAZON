@@ -1,0 +1,2 @@
+# NEWAMAZON
+ new

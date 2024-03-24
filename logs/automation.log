@@ -1,0 +1,16 @@
+23:47:40.857 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+23:47:46.883 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+23:47:50.588 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+23:47:50.979 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+23:50:35.875 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+23:50:41.747 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+23:50:45.937 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+23:50:46.241 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+00:09:21.795 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+00:09:28.150 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+00:09:33.806 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+00:09:37.398 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+00:51:51.428 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+00:51:57.150 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+00:52:03.162 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+00:52:06.876 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
