@@ -19,19 +19,19 @@ public class TestCase1_Clickonsearchbar  extends BaseClass{
 		HomePage hp=new HomePage(driver);
 
 		hp.Searchformobile("MOBILE");
-		Thread.sleep(3000);
+		
 		logger.info("searched for mobile");
 		/*hp.presstextbar();
 		Thread.sleep(5000);
 		logger.info("clicked on mobile search");*/
 		hp.ClickOnSearchgo();
-		Thread.sleep(3000);
+		
 		logger.info("Clocked on Search go");
 		
-		
+		/*
 		ProductPage pp=new ProductPage(driver);
-		pp.ClickonCheckbox();
-		Thread.sleep(3000);
+		pp.ClickonCheckbox();  */
+		
 		
 		
 		

@@ -14,3 +14,17 @@
 00:51:57.150 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
 00:52:03.162 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
 00:52:06.876 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+20:40:31.696 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+20:40:37.032 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+20:40:43.596 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+20:40:47.239 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+20:42:12.797 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+20:42:17.531 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+20:42:23.844 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+20:42:29.178 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+20:55:18.888 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser Succesfully launched
+20:55:20.097 [main] INFO  TestCases.TestCase1_Clickonsearchbar - searched for mobile
+20:55:22.743 [main] INFO  TestCases.TestCase1_Clickonsearchbar - Clocked on Search go
+20:55:22.957 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
+21:12:54.965 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+21:13:01.291 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully

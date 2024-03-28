@@ -1,5 +1,7 @@
 package pageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -15,6 +17,10 @@ public class HomePage extends BasePage{
 	//@FindBy (xpath="//input[@id='twotabsearchtextbox']") WebElement Clickontextbar;
 	@FindBy (xpath="//input[@id='twotabsearchtextbox']") @CacheLookup WebElement textbar;
 	@FindBy(id="nav-search-submit-button")  @CacheLookup WebElement go_bar;
+	//web elements
+	@FindBy(tagName = "a") private List<WebElement> allLinks;
+	
+	@FindBy(tagName="img") private List<WebElement> allImages;
 		
 	//Action
 /*	public void presstextbar() {
@@ -30,4 +36,10 @@ public class HomePage extends BasePage{
 		go_bar.click();
 	}
 	
+	public List<WebElement> getAllLinks() {
+        return allLinks;	
+}
+	public List<WebElement> getAllImages() {
+        return allImages;	
+}
 }

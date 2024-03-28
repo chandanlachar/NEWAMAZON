@@ -11,7 +11,8 @@
  
   <test thread-count="5" name="Test">
     <classes>
-      <class name="TestCases.TestCase1_Clickonsearchbar"/>
+    <class name="TestCases.TestCase1_Clickonsearchbar" />
+       <class name="TestCases.TestCase2_GetallLinks"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
