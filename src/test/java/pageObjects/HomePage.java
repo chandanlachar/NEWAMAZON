@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
 
 public class HomePage extends BasePage{
 //calling the constructor 
@@ -21,13 +22,15 @@ public class HomePage extends BasePage{
 	@FindBy(tagName = "a") private List<WebElement> allLinks;
 	
 	@FindBy(tagName="img") private List<WebElement> allImages;
-		
+	
+	//@FindBy(xpath="//form[@id='nav-search-bar-form']//div[@class='nav-left']") @CacheLookup private WebElement dd_all;
+	@FindBy(xpath="//select[@id='searchDropdownBox']") @CacheLookup private WebElement dd_all;
 	//Action
 /*	public void presstextbar() {
 		Clickontextbar.click();
 			
 	} */
-	
+/*(	
 	public void Searchformobile(String Mobile) {
 		textbar.sendKeys(Mobile);
 		
@@ -41,5 +44,18 @@ public class HomePage extends BasePage{
 }
 	public List<WebElement> getAllImages() {
         return allImages;	
-}
+}  */
+  public String ClickOnDropDown() {	
+	 Select s=new Select(dd_all);
+	 s.selectByVisibleText("Baby");
+	return null;
+	
+	
+	 
+	 
+  }
+
+	
+
+	
 }

@@ -38,7 +38,7 @@ public class BaseClass {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\CHANDAN\\eclipse-workspace2\\NEWAMAZON\\driver\\chromedriver.exe");
 		 driver = new ChromeDriver(options);
 		 driver.manage().deleteAllCookies();
-		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		 driver.get("https://www.amazon.in/");
 		 driver.manage().window().maximize();
 		 logger.info("ChromeBrowser Succesfully launched");

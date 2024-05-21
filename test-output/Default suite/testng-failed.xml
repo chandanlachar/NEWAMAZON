@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestCases.TestCase1_Clickonsearchbar">
+      <class name="TestCases.TestCase2_GetallLinks">
         <methods>
-          <include name="Clickontextbar"/>
+          <include name="GetAllImages"/>
           <include name="setup"/>
           <include name="TearDown"/>
         </methods>
-      </class> <!-- TestCases.TestCase1_Clickonsearchbar -->
+      </class> <!-- TestCases.TestCase2_GetallLinks -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

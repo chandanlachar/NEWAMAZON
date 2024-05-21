@@ -28,3 +28,15 @@
 20:55:22.957 [main] INFO  TestCases.TestCase1_Clickonsearchbar - ChromeBrowser closed succesfully
 21:12:54.965 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
 21:13:01.291 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+23:50:34.737 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+23:50:40.927 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+23:54:39.224 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+23:54:40.037 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+00:58:06.260 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+00:58:07.490 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+01:00:31.192 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+01:00:33.762 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+01:01:25.927 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+01:01:32.288 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
+01:16:25.488 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser Succesfully launched
+01:16:26.509 [main] INFO  TestCases.TestCase2_GetallLinks - ChromeBrowser closed succesfully
